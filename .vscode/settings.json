@@ -1,0 +1,19 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false,
+    "explorer.autoReveal": true,
+    "workbench.preferredLightColorTheme": "Default High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "zenMode.hideTabs": true,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideActivityBar": true,
+    "workbench.editor.showTabs": true,
+    "workbench.activityBar.visible": true,
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Andromeda",
+    "workbench.editor.wrapTabs": false,
+    "workbench.editor.restoreViewState": true
+}
